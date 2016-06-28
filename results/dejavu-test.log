@@ -1,0 +1,376 @@
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpwPLtbG', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp5Vq2wM'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpP4ZJma', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpVphUFm'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpniz4Dp', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpSz0e9d'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpBLNQyo', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmphMAzqR'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp1D4TXs', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp1Cqe0Q'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpiF3Gaf', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmphUoCPt'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpuZrDTY', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmptzY4vS'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpaKvGZt', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpRtGfSk'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpL3eZjA', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpN3_uXx'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpemJsaS', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpvy0e74'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp8Y9SRx', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpW9RiA_'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpbif2Kq', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpTIMzPv'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmplGUBJ8', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpHEKEMB'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpvAiLrg', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpiB_Y7i'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpvva4Gi', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpbKRHGo'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp3cv9uK', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpNOjJyR'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpzYDZ1U', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp4lRZon'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpkZdfPE', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpaTBF8m'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpqnYmx2', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp2j0Dui'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmppql5Ck', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp1iu3zR'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpP3rafk', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpPne7jU'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpRjR8QY', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpueL4IE'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpYumoqB', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpYd5yBa'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpaDaVXP', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpVGbnYU'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpPmtZ7L', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpZXNBzg'])
+DEBUG:root:Running Dejavu fingerprinter on files in ./mp3...
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_104_4sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.713
+DEBUG:root:confidence: 52
+DEBUG:root:song start_time: 104
+DEBUG:root:result start time: 104.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_115_2sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.905
+DEBUG:root:confidence: 41
+DEBUG:root:song start_time: 115
+DEBUG:root:result start time: 115.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_11_3sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.266
+DEBUG:root:confidence: 239
+DEBUG:root:song start_time: 11
+DEBUG:root:result start time: 11.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_120_5sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 2.086
+DEBUG:root:confidence: 1334
+DEBUG:root:song start_time: 120
+DEBUG:root:result start time: 120.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Brad-Sucks--Total-Breakdown_86_1sec.mp3
+DEBUG:root:song: Brad-Sucks--Total-Breakdown
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.452
+DEBUG:root:confidence: 72
+DEBUG:root:song start_time: 86
+DEBUG:root:result start time: 86.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_101_5sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.964
+DEBUG:root:confidence: 195
+DEBUG:root:song start_time: 101
+DEBUG:root:result start time: 101.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_15_1sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.41
+DEBUG:root:confidence: 6
+DEBUG:root:song start_time: 15
+DEBUG:root:result start time: 36.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_32_2sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.842
+DEBUG:root:confidence: 57
+DEBUG:root:song start_time: 32
+DEBUG:root:result start time: 11.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_63_3sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.17
+DEBUG:root:confidence: 21
+DEBUG:root:song start_time: 63
+DEBUG:root:result start time: 148.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Choc--Eigenvalue-Subspace-Decomposition_9_4sec.mp3
+DEBUG:root:song: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.52
+DEBUG:root:confidence: 133
+DEBUG:root:song start_time: 9
+DEBUG:root:result start time: 9.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_144_3sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.302
+DEBUG:root:confidence: 327
+DEBUG:root:song start_time: 144
+DEBUG:root:result start time: 144.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_176_4sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.652
+DEBUG:root:confidence: 848
+DEBUG:root:song start_time: 176
+DEBUG:root:result start time: 176.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_27_5sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.909
+DEBUG:root:confidence: 167
+DEBUG:root:song start_time: 27
+DEBUG:root:result start time: 27.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_66_1sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.462
+DEBUG:root:confidence: 66
+DEBUG:root:song start_time: 66
+DEBUG:root:result start time: 66.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful_97_2sec.mp3
+DEBUG:root:song: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.833
+DEBUG:root:confidence: 55
+DEBUG:root:song start_time: 97
+DEBUG:root:result start time: 97.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: loseyourself_163_2sec.wav
+DEBUG:root:song: loseyourself
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: loseyourself_188_3sec.wav
+DEBUG:root:song: loseyourself
+DEBUG:root:song_result: Choc--Eigenvalue-Subspace-Decomposition
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: loseyourself_192_5sec.wav
+DEBUG:root:song: loseyourself
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: loseyourself_217_1sec.wav
+DEBUG:root:song: loseyourself
+DEBUG:root:song_result: Brad-Sucks--Total-Breakdown
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: loseyourself_55_4sec.wav
+DEBUG:root:song: loseyourself
+DEBUG:root:song_result: Josh-Woodward--I-Want-To-Destroy-Something-Beautiful
+DEBUG:root:invalid match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_108_3sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.303
+DEBUG:root:confidence: 103
+DEBUG:root:song start_time: 108
+DEBUG:root:result start time: 108.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_136_4sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.706
+DEBUG:root:confidence: 156
+DEBUG:root:song start_time: 136
+DEBUG:root:result start time: 83.0
+DEBUG:root:inaccurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_13_2sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.888
+DEBUG:root:confidence: 165
+DEBUG:root:song start_time: 13
+DEBUG:root:result start time: 13.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_25_5sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 2.007
+DEBUG:root:confidence: 157
+DEBUG:root:song start_time: 25
+DEBUG:root:result start time: 25.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: Sean-Fournier--Falling-For-You_49_1sec.mp3
+DEBUG:root:song: Sean-Fournier--Falling-For-You
+DEBUG:root:song_result: Sean-Fournier--Falling-For-You
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.452
+DEBUG:root:confidence: 34
+DEBUG:root:song start_time: 49
+DEBUG:root:result start time: 49.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_178_1sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.417
+DEBUG:root:confidence: 6
+DEBUG:root:song start_time: 178
+DEBUG:root:result start time: 178.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_201_5sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.975
+DEBUG:root:confidence: 162
+DEBUG:root:song start_time: 201
+DEBUG:root:result start time: 201.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_58_2sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 0.863
+DEBUG:root:confidence: 201
+DEBUG:root:song start_time: 58
+DEBUG:root:result start time: 58.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_58_3sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.199
+DEBUG:root:confidence: 306
+DEBUG:root:song start_time: 58
+DEBUG:root:result start time: 58.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:--------------------------------------------------
+DEBUG:root:file: The-Lights-Galaxia--While-She-Sleeps_85_4sec.mp3
+DEBUG:root:song: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:song_result: The-Lights-Galaxia--While-She-Sleeps
+DEBUG:root:correct match
+DEBUG:root:query duration: 1.587
+DEBUG:root:confidence: 41
+DEBUG:root:song start_time: 85
+DEBUG:root:result start time: 85.0
+DEBUG:root:accurate match
+DEBUG:root:--------------------------------------------------
+
+DEBUG:root:finished obtaining results from dejavu in 56.8355870247
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp870fdk', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpPJ4ilW'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpqpvxZD', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpGRNC2n'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpjaksQP', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpD0tOc6'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp2BhV3P', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpnl0iLl'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpxJNPhJ', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpyRzIDW'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp1jwoXi', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpYnH9nD'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpxn178k', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpyq4aUw'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpVwdTJ4', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpxI0_wF'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpHI3juz', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpGBvzyj'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpg6ASvM', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp9L7KEk'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpUFowqK', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpGjvx7D'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpBWFrv5', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpWAx4rf'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpRGu098', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpjQPH8X'])
+DEBUG:pydub.converter:subprocess.call(['ffmpeg', '-y', '-f', 'mp3', '-i', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmp1OJ5vB', '-vn', '-f', 'wav', '/var/folders/zc/jfblm_wx6yxcvtwyvzf_7td00000gn/T/tmpHfLDUb'])

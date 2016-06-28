@@ -1,0 +1,15 @@
+1. Recognize a song
+python dejavu.py --recognize file mp3/loseyourself.wav
+
+2. Mic recognize
+python dejavu.py --recognize mic 10
+
+3. Testing
+python run_tests.py \
+    --secs 5 \
+    --temp ./temp_audio \
+    --log-file ./results/dejavu-test.log \
+    --padding 8 \
+    --seed 42 \
+    --results ./results \
+    ./mp3
