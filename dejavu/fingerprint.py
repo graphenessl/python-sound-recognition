@@ -86,7 +86,7 @@ def fingerprint(channel_samples, Fs=DEFAULT_FS,
     # BACKUP
     # local_maxima = get_2D_peaks(arr2D, plot=False, amp_min=amp_min)
     # CUSTOM
-    local_maxima = get_2D_peaks(arr2D, plot=False, amp_min=amp_min)
+    local_maxima = get_2D_peaks(arr2D, plot=True, amp_min=amp_min)
 
     # return hashes
     return generate_hashes(local_maxima, fan_value=fan_value)
