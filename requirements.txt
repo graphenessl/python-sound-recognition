@@ -38,11 +38,14 @@ sudo apt-get install ffmpeg
 sudo pip install pydub
 
 5. numpy
-# was already installed
+# was already installed with a conflicting version in python, and needs to be removed, and re-installed
+# not risking with a simple --upgrade ...
+sudo pip uninstall numpy
 sudo pip install numpy
 
 6. scipy
 sudo pip install scipy
 
 7. matplotlib
-sudo pip install numpy
+# DOES NOT WORK: sudo pip install numpy
+sudo apt-get install python-matplotlib
